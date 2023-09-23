@@ -1,1 +1,1 @@
-This is the README for my directory about git
+#This is the README for my directory about git and github.
