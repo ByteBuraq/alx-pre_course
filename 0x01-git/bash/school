@@ -1,2 +1,2 @@
-#!/bin/bsh
-echo "School"
+#!/bin/bash
+echo "The School is so cool!"
